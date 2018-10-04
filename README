@@ -1,0 +1,1 @@
+This example is extends the blog post [Train and host Scikit-Learn models in Amazon SageMaker by Thomas Hughes and Morgan Du](https://aws.amazon.com/blogs/machine-learning/train-and-host-scikit-learn-models-in-amazon-sagemaker-by-building-a-scikit-docker-container/) to allow for training models outside of SageMaker and only using SageMaker for the hosting of the endpoint.
